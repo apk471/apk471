@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hello there! I'm Ayush Amin, a passionate developer exploring the vast world of code. Currently, I'm working on cloning TWITTER(Backend + Frontend). My journey involves constant learning, and right now, I'm sharpening my skills in ML and Gen AI.
+👋 Hello there! I'm Ayush Amin, a passionate developer exploring the vast world of code. Currently, I'm working on improving my skills in Webdev and GenAi. My journey involves constant learning, and right now, I'm sharpening my skills in ML and Gen AI.
 
 🚀 I'm always up for a coding challenge, so feel free to ask me any programming related questions. I'm eager to collaborate and learn new things along the way.
 
