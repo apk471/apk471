@@ -1,4 +1,4 @@
-### About Me
+# 💫 About Me:
 
 👋 Hello there! I'm Ayush Amin, a passionate developer exploring the vast world of code. Currently, I'm working on improving my skills in Webdev and GenAi. My journey involves constant learning, and right now, I'm sharpening my skills in ML and Gen AI.
 
