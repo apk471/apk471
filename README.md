@@ -6,9 +6,9 @@
 
 💡 Fun Fact: When I'm not immersed in lines of code, you might find me playing badminton. Let's connect, collaborate, and create some awesome software together! 🌟
 
-## 💼 Portfolio
+## 💼 Resume
 
-https://apk471.github.io/Portfolio/
+<a  href = "https://drive.google.com/file/d/1tv8EDkMCFX3xqOzx3bDoETK_RGPgET3f/view?usp=sharing">Click Here</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-amin-a72743257/) 
