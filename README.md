@@ -6,6 +6,9 @@
 
 💡 Fun Fact: When I'm not immersed in lines of code, you might find me playing badminton. Let's connect, collaborate, and create some awesome software together! 🌟
 
+## 🧑‍💻 Portfolio
+<a  href = "https://ayushamin-portfolio.vercel.app/">Portfolio</a>
+
 ## 💼 Resume
 
 <a  href = "https://drive.google.com/file/d/1tv8EDkMCFX3xqOzx3bDoETK_RGPgET3f/view?usp=sharing">Click Here</a>
